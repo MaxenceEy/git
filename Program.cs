@@ -11,6 +11,7 @@ namespace git
         static void Main(string[] args)
         {
             Console.Write("yo mec");
+            Console.Write("cava mec?");
         }
     }
 }
